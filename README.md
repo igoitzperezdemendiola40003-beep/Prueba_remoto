@@ -1,3 +1,3 @@
-Esto es una prueba
-Esto es otra prueba
-prueba y error
+Esto es una prueba\n
+Esto es otra prueba\n
+prueba y error\n
